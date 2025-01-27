@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">A passionate software engineer from Germany</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Time%20Zone-CET/CEST-blue" />
+</p>
+
 <h3 align="center">Languages and Frameworks:</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
