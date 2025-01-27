@@ -2,9 +2,7 @@
 <h3 align="center">A passionate software engineer from Germany</h3>
 
 <h3 align="left">Languages and Frameworks:</h3>
-[![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#)
-
-
+![img](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 - 🔭 I’m currently working on a **Web Browser in Rust**
 
