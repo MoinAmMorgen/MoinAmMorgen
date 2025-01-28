@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Germany</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Time%20Zone-CET/CEST-blue" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 <h3 align="center">Languages and Frameworks:</h3>
