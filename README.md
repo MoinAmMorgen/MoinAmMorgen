@@ -18,16 +18,15 @@
   </p>
 
 
-🔭 I’m currently working on **Cross-Platform apps using Electron**
+<p align="center">I’m working on <b>Cross-Platform apps </b>using Electron</p>
 
+<h3 align="center">How to reach me:</h3>
+<p align="center"> 
+<a href="mailto:moinammorgen@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-🌱 I’m currently learning **Javascript & Go** in my free time, as well as **Python** in school.
-
-
-📫 How to reach me:
-- **moinammorgen@gmail.com**
-- **https://discordapp.com/users/611254381039583246**
-
-
-⚡️ Fun fact: **I’ve been playing the piano for 8 years now!**
-
+<a href="https://discordapp.com/users/611254381039583246" >
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+</p>
