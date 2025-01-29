@@ -21,7 +21,7 @@
 🔭 I’m currently working on **Cross-Platform apps using Electron**
 
 
-🌱 I’m currently learning **Javascript & Go** as well as **Pyhton** in school.
+🌱 I’m currently learning **Javascript & Go** in my free time, as well as **Python** in school.
 
 
 📫 How to reach me:
