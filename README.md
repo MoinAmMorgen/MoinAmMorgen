@@ -18,7 +18,7 @@
   </p>
 
 
-<p align="center">I’m working on <b>Cross-Platform apps </b>using Tauri</p>
+<p align="center">I’m working on <b>Cross-Platform apps </b>using <b>Tauri</b></p>
 
 <h3 align="center">How to reach me:</h3>
 <p align="center"> 
