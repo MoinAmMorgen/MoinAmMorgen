@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Niklas</h1>
-<h3 align="center">A passionate software engineer from Germany</h3>
+<h3 align="center">A software engineer from Germany</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
