@@ -17,7 +17,7 @@
   </p>
 
 
-<p align="center">I’m working on <b>fast programms and apis </b>using <b>Go</b></p>
+<p align="center">I’m working on <b>a secret project</b> using <b>Go</b></p>
 
 <h3 align="center">How to reach me:</h3>
 <p align="center"> 
