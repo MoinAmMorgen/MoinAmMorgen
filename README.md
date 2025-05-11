@@ -16,7 +16,7 @@
   </p>
 
 
-<p align="center">I’m currently trying to <b>improve my skills</b> in <b>C++</b></p>
+<p align="center">I’m currently trying to <b>improve my skills</b> in <b>Rust</b></p>
 
 <h3 align="center">How to reach me:</h3>
 <p align="center"> 
