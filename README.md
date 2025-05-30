@@ -3,19 +3,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
 
-<h3 align="center">Languages and Frameworks:</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </p>
 
-
-<p align="center">I'm currently building <b>robotics simulations</b> and <b>physics engines</b> in <b>C++</b></p>
+<p align="center">I'm currently building debating what to program...</p>
 
 <h3 align="center">How to reach me:</h3>
 <p align="center"> 
